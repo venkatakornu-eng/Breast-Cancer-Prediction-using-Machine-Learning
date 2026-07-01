@@ -68,7 +68,7 @@ Developed a Machine Learning model that analyzes medical data and predicts cance
 
 ## 📷 Visualizations
 - Correlation Heatmap
-  
+  ![correlation])(image/Correlation Heatmap.png)
 - Feature Distribution Plots
 
 - Confusion Matrix  
